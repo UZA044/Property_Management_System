@@ -1,13 +1,13 @@
 # Property Management System
 
-The Property Management System is a Java-based application designed to manage properties, tenants, and complaints efficiently.
+The Property Management System is a Java-based application designed to manage properties, tenants, and complaints.
 
 ## Key Features
 - **Property Management**: Handles various property types such as flats, houses, and rooms.
-- **Tenant Management**: Manages tenant information and classifications.
+- **Tenant Management**: Manages tenant information.
 - **Complaint Handling**: Tracks and prioritizes property-related complaints.
 
-## Core Files
+## Files
 - **`Property.java`**: Manages property details and functionalities.
 - **`Tenant.java`**: Handles tenant data and interactions.
 - **`Complaint.java`**: Manages complaints with severity levels.
